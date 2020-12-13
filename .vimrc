@@ -7,3 +7,4 @@ set sw=2
 set tabstop=2
 
 :imap jk <Esc>
+:xmap jk <Esc>
